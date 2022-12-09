@@ -7,13 +7,18 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+
 - 🔭 I’m currently working at <a href="https://www.adarga.ai/" target="blank">Adarga AI</a>
 
 - 🌱 I’m currently Working on highly scalable, secure backend systems
 
-- 🌱 I’m currently learning Apache Kafka <a href="https://kafka.apache.org/" target="blank">kafka</a>
+- 🤝 I’m looking to collaborate on anything!
+
+- 🌱 I’m currently learning Apache <a href="https://kafka.apache.org/" target="blank">Kafka</a>
 
 - 💬 Ask me about **Golang, K8s & Terraform**
+
+- :soccer: Football, :video_game: Gaming, and :badminton: Badminton is what I like the most
 
 - 📫 How to reach me **jtsh1994@hotmail.com**
 <br/>
