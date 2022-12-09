@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at <a href="https://www.adarga.ai/" target="blank">Adarga AI</a>
 
-- 🌱 I’m currently Working on highly scalable, secure backend systems
+- 🌱 I’m currently working on highly scalable, secure backend systems
 
 - 🤝 I’m looking to collaborate on anything!
 
