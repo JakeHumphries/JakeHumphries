@@ -19,6 +19,7 @@
 - 💬 Ask me about **Golang, K8s & Terraform**
 
 - :soccer: Football, :video_game: Gaming, and :badminton: Badminton is what I like the most
+
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
