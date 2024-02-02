@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking to collaborate on anything!
 
-- 🌱 I’m currently learning Apache <a href="https://kafka.apache.org/" target="blank">Kafka</a>
+- 🌱 I’m currently learning Helm Charts
 
 - 💬 Ask me about **Golang, K8s & Terraform**
 
@@ -35,4 +35,4 @@
 
 </p>
 
-Last Edited on: 09/12/2022
+Last Edited on: 02/01/2024
