@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake</h1>
-<h3 align="center">A passionate backend software engineer from Hertfordshire, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</h3>
+<h3 align="center">A passionate backend software engineer from Bedfordshire, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakehumphries&label=Profile%20views&color=0e75b6&style=flat" alt="jakehumphries" /> </p>
 
@@ -35,4 +35,4 @@
 
 </p>
 
-Last Edited on: 02/01/2024
+Last Edited on: 09/09/2024
