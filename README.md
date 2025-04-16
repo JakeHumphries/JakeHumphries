@@ -8,7 +8,7 @@
 </a>
 
 
-- 🔭 I’m currently working at <a href="https://www.adarga.ai/" target="blank">Adarga AI</a>
+- 🔭 I’m currently working at <a href="https://www.natwest.com/" target="blank">Natwest</a>
 
 - 🌱 I’m currently working on highly scalable, secure backend systems
 
